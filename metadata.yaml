@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32824'
     url: http://www.gutenberg.org/2009/agents/32824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27656#De-verwoeste-steden-aan-de-straat-van-Messina--13-De-Aarde-en-haar-Volken-1909
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
 identifiers:
